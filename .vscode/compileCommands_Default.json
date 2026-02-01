@@ -1,0 +1,362 @@
+[
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\CPP_Twin_Shooter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\CPP_Twin_Shooter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\CPP_Twin_Shooter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\CPP_Twin_ShooterCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\CPP_Twin_ShooterCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\CPP_Twin_ShooterGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\CPP_Twin_ShooterGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\CPP_Twin_ShooterPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\CPP_Twin_ShooterPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\StrategyGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\StrategyGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\StrategyPawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\StrategyPawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\StrategyPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\StrategyPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\StrategyUnit.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\StrategyUnit.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\UI\\StrategyHUD.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\UI\\StrategyHUD.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\UI\\StrategyUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\UI\\StrategyUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickNPC.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickNPC.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickNPCDestruction.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickNPCDestruction.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickSpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickSpawner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\AI\\TwinStickStateTreeUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\Gameplay\\TwinStickAoEAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\Gameplay\\TwinStickAoEAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\Gameplay\\TwinStickPickup.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\Gameplay\\TwinStickPickup.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\Gameplay\\TwinStickProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\Gameplay\\TwinStickProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\TwinStickCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\TwinStickCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\TwinStickGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\TwinStickGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\TwinStickPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\TwinStickPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\UI\\TwinStickUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_TwinStick\\UI\\TwinStickUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]

@@ -28,6 +28,12 @@ public:
 
 	/** Constructor */
 	ACPP_Twin_ShooterCharacter();
+	
+	UPROPERTY(VisibleAnywhere)
+	float TestFloat;
+
+	UPROPERTY(VisibleAnywhere)
+	float TestFloat2;
 
 	/** Initialization */
 	virtual void BeginPlay() override;
