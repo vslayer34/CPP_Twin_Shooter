@@ -18,7 +18,7 @@ class ACPP_Twin_ShooterCharacter : public ACharacter
 	float TestFloat;
 
 	UPROPERTY(VisibleAnywhere)
-	float TestFloat2;
+	float TestFloat3;
 
 private:
 

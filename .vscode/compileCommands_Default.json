@@ -72,6 +72,86 @@
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
 	},
 	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Private\\ABaseBullet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Private\\ABaseMagicCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Private\\ABaseWeapon.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Private\\AEnemyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Private\\APlayerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Public\\ABaseBullet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Public\\ABaseMagicCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Public\\ABaseWeapon.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Public\\AEnemyCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Public\\APlayerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Study\\Projects\\CPP_Twin_Shooter\\.vscode\\compileCommands_Default\\CPP_Twin_Shooter.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
 		"file": "D:\\Study\\Projects\\CPP_Twin_Shooter\\Source\\CPP_Twin_Shooter\\Variant_Strategy\\StrategyGameMode.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
