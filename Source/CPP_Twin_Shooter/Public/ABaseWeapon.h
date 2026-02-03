@@ -18,7 +18,13 @@ public:
 protected:
 	UPROPERTY(EditAnywhere)
 	TObjectPtr<UStaticMeshComponent> WeaponMesh;
-	
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly)
+	float Damage;
+
+	UFUNCTION(BlueprintPure)
+	float CalculateDamage(float amount, float multiplier);
+
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 	void Shoot();

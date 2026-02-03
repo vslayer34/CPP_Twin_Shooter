@@ -12,6 +12,11 @@ AABaseWeapon::AABaseWeapon()
 
 }
 
+float AABaseWeapon::CalculateDamage(float amount, float multiplier)
+{
+    return amount * multiplier;
+}
+
 // Called when the game starts or when spawned
 void AABaseWeapon::BeginPlay()
 {
