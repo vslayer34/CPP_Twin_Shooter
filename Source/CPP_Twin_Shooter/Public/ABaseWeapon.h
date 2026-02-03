@@ -16,6 +16,9 @@ public:
 	AABaseWeapon();
 
 protected:
+	UPROPERTY(EditAnywhere)
+	TObjectPtr<UStaticMeshComponent> WeaponMesh;
+	
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 	void Shoot();

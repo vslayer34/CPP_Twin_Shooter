@@ -10,7 +10,7 @@ AABaseMagicCharacter::AABaseMagicCharacter()
 	PrimaryActorTick.bCanEverTick = true;
 
 	Weapon = CreateDefaultSubobject<UChildActorComponent>(TEXT("Weapon"));
-	Weapon->SetupAttachment(GetMesh());
+	Weapon->SetupAttachment(GetMesh(), TEXT("WeaponSocket"));
 }
 
 // Called when the game starts or when spawned
