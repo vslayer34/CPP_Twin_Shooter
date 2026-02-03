@@ -14,12 +14,6 @@ class ACPP_Twin_ShooterCharacter : public ACharacter
 {
 	GENERATED_BODY()
 
-	UPROPERTY(VisibleAnywhere)
-	float TestFloat;
-
-	UPROPERTY(VisibleAnywhere)
-	float TestFloat3;
-
 private:
 
 	/** Top down camera */

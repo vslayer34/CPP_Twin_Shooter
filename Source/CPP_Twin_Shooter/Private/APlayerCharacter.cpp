@@ -3,3 +3,7 @@
 
 #include "APlayerCharacter.h"
 
+AAPlayerCharacter::AAPlayerCharacter()
+{
+    // Super::AABaseMagicCharacter();
+}
